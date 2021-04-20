@@ -1,0 +1,3 @@
+<nav search_view="search">
+  <view name="waf_summary" default='true' />
+</nav>
