@@ -5,8 +5,10 @@
 You can read more [here](https://www.splunk.com/en_us/blog/partners/increase-security-posture-and-troubleshoot-service-delivery-with-splunk-new-aws-waf-full-logs-feature.html) in this Splunk blog.
   
 ### The Splunk App
-This is a `demo` Splunk App to display the logs from AWS Web Application Firewall.  
+This is a `demo` Splunk App to display the logs from AWS Web Application Firewall.  It is not supported by Splunk and is a template guide for customers or partners to enhance, extend and develop further.
   
+Feel free to `fork` this code repo and modify it for your own needs.  Should you have feature requests, or find bugs, please raise the [issues here](https://github.com/anthonygrees/splunk_app_aws_waf/issues) and log them so they can be tracked.
+
 ### What the App looks like
 The app is a demo application that can be extended for customer or partner needs.  
   
