@@ -2,6 +2,8 @@
 ### Introduction
 [AWS WAF](https://aws.amazon.com/waf/) is a web application firewall that helps protect your web applications or APIs against common web exploits and bots that may affect availability, compromise security, or consume excessive resources.  
   
+You can read more [here](https://www.splunk.com/en_us/blog/partners/increase-security-posture-and-troubleshoot-service-delivery-with-splunk-new-aws-waf-full-logs-feature.html) in this Splunk blog.
+  
 ### The Splunk App
 This is a `demo` Splunk App to display the logs from AWS Web Application Firewall.  
   
